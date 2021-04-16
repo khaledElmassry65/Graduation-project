@@ -1,0 +1,10 @@
+TIMER0.o: ../TIMER0.c ../TIMER0.h ../TIMER0_CONFIG.h \
+ ../CPU_CONFIGURATION.h ../BIT_MATH\ .h ../STD_TYPES.h ../DIO.h \
+ ../DIO_CONFIG.h
+../TIMER0.h:
+../TIMER0_CONFIG.h:
+../CPU_CONFIGURATION.h:
+../BIT_MATH\ .h:
+../STD_TYPES.h:
+../DIO.h:
+../DIO_CONFIG.h:

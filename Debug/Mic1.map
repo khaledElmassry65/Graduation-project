@@ -1,0 +1,1004 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_divmodhi4.o)
+                              ./TIMER0.o (__divmodhi4)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+                              ./TIMER0.o (__udivmodsi4)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+                              c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o (exit)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_tablejump2.o)
+                              ./ADC.o (__tablejump2__)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+                              ./KEYPAD.o (__do_copy_data)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+                              ./TIMER0.o (__do_clear_bss)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_muluhisi3.o)
+                              ./TIMER0.o (__muluhisi3)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodhi4.o)
+                              c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+                              c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_muluhisi3.o) (__umulhisi3)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              ./KEYPAD.o (__ltsf2)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              ./KEYPAD.o (__fixunssfsi)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_splitA)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_zero)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              ./KEYPAD.o (__gtsf2)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              ./KEYPAD.o (__mulsf3)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_inf)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_nan)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_pscA)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_pscB)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__fp_round)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                              ./LCD.o (ltoa)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a(ltoa_ncheck.o)
+                              c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a(ltoa.o) (__ltoa_ncheck)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+                              c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a(ltoa_ncheck.o) (__ultoa_common)
+c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a(strrev.o)
+                              c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o) (strrev)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000800060 0x000000000000ffa0 rw !x
+eeprom           0x0000000000810000 0x0000000000010000 rw !x
+fuse             0x0000000000820000 0x0000000000000002 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+LOAD ./ADC.o
+LOAD ./App.o
+LOAD ./DIO.o
+LOAD ./EXT_INT.o
+LOAD ./InOut.o
+LOAD ./KEYPAD.o
+LOAD ./LCD.o
+LOAD ./LED.o
+LOAD ./MOTOR.o
+LOAD ./SPI.o
+LOAD ./TIMER0.o
+LOAD ./UART.o
+START GROUP
+LOAD c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a
+LOAD c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a
+LOAD c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libatmega32.a
+END GROUP
+                0x0000000000020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x000000000000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x0000000000010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000     0x2b5a
+ *(.vectors)
+ .vectors       0x0000000000000000       0x54 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000000000000054                . = ALIGN (0x2)
+                0x0000000000000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000054        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000054                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem.*)
+                0x0000000000000054                . = ALIGN (0x2)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000000000000054                __ctors_start = .
+ *(.ctors)
+                0x0000000000000054                __ctors_end = .
+                0x0000000000000054                __dtors_start = .
+ *(.dtors)
+                0x0000000000000054                __dtors_end = .
+ SORT_BY_NAME(*)(.ctors)
+ SORT_BY_NAME(*)(.dtors)
+ *(.init0)
+ .init0         0x0000000000000054        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x0000000000000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000000000000054        0xc c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000060       0x16 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+                0x0000000000000060                __do_copy_data
+ .init4         0x0000000000000076       0x10 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+                0x0000000000000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000000000000086        0x8 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ *(.init9)
+ *(.text)
+ .text          0x000000000000008e        0x4 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x000000000000008e                __vector_1
+                0x000000000000008e                __vector_12
+                0x000000000000008e                __bad_interrupt
+                0x000000000000008e                __vector_6
+                0x000000000000008e                __vector_3
+                0x000000000000008e                __vector_11
+                0x000000000000008e                __vector_13
+                0x000000000000008e                __vector_17
+                0x000000000000008e                __vector_19
+                0x000000000000008e                __vector_7
+                0x000000000000008e                __vector_5
+                0x000000000000008e                __vector_4
+                0x000000000000008e                __vector_9
+                0x000000000000008e                __vector_2
+                0x000000000000008e                __vector_15
+                0x000000000000008e                __vector_8
+                0x000000000000008e                __vector_14
+                0x000000000000008e                __vector_10
+                0x000000000000008e                __vector_16
+                0x000000000000008e                __vector_18
+                0x000000000000008e                __vector_20
+ .text          0x0000000000000092        0x0 ./ADC.o
+ .text          0x0000000000000092        0x0 ./App.o
+ .text          0x0000000000000092        0x0 ./DIO.o
+ .text          0x0000000000000092        0x0 ./EXT_INT.o
+ .text          0x0000000000000092        0x0 ./InOut.o
+ .text          0x0000000000000092        0x0 ./KEYPAD.o
+ .text          0x0000000000000092        0x0 ./LCD.o
+ .text          0x0000000000000092        0x0 ./LED.o
+ .text          0x0000000000000092        0x0 ./MOTOR.o
+ .text          0x0000000000000092        0x0 ./SPI.o
+ .text          0x0000000000000092        0x0 ./TIMER0.o
+ .text          0x0000000000000092        0x0 ./UART.o
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_muluhisi3.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a(ltoa_ncheck.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+ .text          0x0000000000000092        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a(strrev.o)
+                0x0000000000000092                . = ALIGN (0x2)
+ *(.text.*)
+ .text.ADC_Init
+                0x0000000000000092      0x294 ./ADC.o
+                0x0000000000000092                ADC_Init
+ .text.ADC_Read
+                0x0000000000000326       0x56 ./ADC.o
+                0x0000000000000326                ADC_Read
+ .text.main     0x000000000000037c       0x2c ./App.o
+                0x000000000000037c                main
+ .text.DIO_SetDirection
+                0x00000000000003a8      0x210 ./DIO.o
+                0x00000000000003a8                DIO_SetDirection
+ .text.DIO_SetValue
+                0x00000000000005b8      0x210 ./DIO.o
+                0x00000000000005b8                DIO_SetValue
+ .text.DIO_ReadValue
+                0x00000000000007c8       0xe6 ./DIO.o
+                0x00000000000007c8                DIO_ReadValue
+ .text.DIO_SetPin_Direction
+                0x00000000000008ae      0x200 ./DIO.o
+                0x00000000000008ae                DIO_SetPin_Direction
+ .text.DIO_SetPin_Value
+                0x0000000000000aae      0x200 ./DIO.o
+                0x0000000000000aae                DIO_SetPin_Value
+ .text.DIO_TogglePin_Value
+                0x0000000000000cae       0xf8 ./DIO.o
+                0x0000000000000cae                DIO_TogglePin_Value
+ .text.DIO_ReadPin_Value
+                0x0000000000000da6       0xd6 ./DIO.o
+                0x0000000000000da6                DIO_ReadPin_Value
+ .text.DIO_SetPort_Direction
+                0x0000000000000e7c       0xe0 ./DIO.o
+                0x0000000000000e7c                DIO_SetPort_Direction
+ .text.DIO_SetPort_Value
+                0x0000000000000f5c       0x1a ./DIO.o
+                0x0000000000000f5c                DIO_SetPort_Value
+ .text.DIO_TogglePort_Value
+                0x0000000000000f76       0x1a ./DIO.o
+                0x0000000000000f76                DIO_TogglePort_Value
+ .text.DIO_ReadPort_Value
+                0x0000000000000f90       0x16 ./DIO.o
+                0x0000000000000f90                DIO_ReadPort_Value
+ .text.DIO_SetPull_Up
+                0x0000000000000fa6       0xf8 ./DIO.o
+                0x0000000000000fa6                DIO_SetPull_Up
+ .text.GLOBAL_INTERRUPT_Init
+                0x000000000000109e       0x22 ./EXT_INT.o
+                0x000000000000109e                GLOBAL_INTERRUPT_Init
+ .text.EXT_INTERRUPT0_Init
+                0x00000000000010c0       0x4a ./EXT_INT.o
+                0x00000000000010c0                EXT_INTERRUPT0_Init
+ .text.EXT_INTERRUPT1_Init
+                0x000000000000110a       0x10 ./EXT_INT.o
+                0x000000000000110a                EXT_INTERRUPT1_Init
+ .text.EXT_INTERRUPT2_Init
+                0x000000000000111a       0x10 ./EXT_INT.o
+                0x000000000000111a                EXT_INTERRUPT2_Init
+ .text.BUTTON0_Initialize
+                0x000000000000112a       0x1a ./InOut.o
+                0x000000000000112a                BUTTON0_Initialize
+ .text.BUTTON0_Read
+                0x0000000000001144       0x16 ./InOut.o
+                0x0000000000001144                BUTTON0_Read
+ .text.KEYPAD_Init
+                0x000000000000115a       0xa8 ./KEYPAD.o
+                0x000000000000115a                KEYPAD_Init
+ .text.KEYPAD_READ
+                0x0000000000001202      0x1ce ./KEYPAD.o
+                0x0000000000001202                KEYPAD_READ
+ .text.LCD_Init
+                0x00000000000013d0      0x2e2 ./LCD.o
+                0x00000000000013d0                LCD_Init
+ .text.LCD_Clear
+                0x00000000000016b2       0x16 ./LCD.o
+                0x00000000000016b2                LCD_Clear
+ .text.LCD_Write_Command
+                0x00000000000016c8      0x460 ./LCD.o
+                0x00000000000016c8                LCD_Write_Command
+ .text.LCD_Write_Character
+                0x0000000000001b28      0x460 ./LCD.o
+                0x0000000000001b28                LCD_Write_Character
+ .text.LCD_Write_String
+                0x0000000000001f88       0x40 ./LCD.o
+                0x0000000000001f88                LCD_Write_String
+ .text.LCD_Write_Number
+                0x0000000000001fc8       0x5e ./LCD.o
+                0x0000000000001fc8                LCD_Write_Number
+ .text.LCD_Write_Float
+                0x0000000000002026       0x24 ./LCD.o
+                0x0000000000002026                LCD_Write_Float
+ .text.LCD_Write_Arabic
+                0x000000000000204a       0x1a ./LCD.o
+                0x000000000000204a                LCD_Write_Arabic
+ .text.LED0_Initialize
+                0x0000000000002064       0x1a ./LED.o
+                0x0000000000002064                LED0_Initialize
+ .text.LED0_ON  0x000000000000207e       0x1a ./LED.o
+                0x000000000000207e                LED0_ON
+ .text.LED0_OFF
+                0x0000000000002098       0x1a ./LED.o
+                0x0000000000002098                LED0_OFF
+ .text.LED0_TGL
+                0x00000000000020b2       0x18 ./LED.o
+                0x00000000000020b2                LED0_TGL
+ .text.Motor1_Init
+                0x00000000000020ca       0x2e ./MOTOR.o
+                0x00000000000020ca                Motor1_Init
+ .text.Motor1_Enable
+                0x00000000000020f8       0x1a ./MOTOR.o
+                0x00000000000020f8                Motor1_Enable
+ .text.Motor1_Disable
+                0x0000000000002112       0x1a ./MOTOR.o
+                0x0000000000002112                Motor1_Disable
+ .text.Motor1_CW
+                0x000000000000212c       0x24 ./MOTOR.o
+                0x000000000000212c                Motor1_CW
+ .text.Motor1_CCW
+                0x0000000000002150       0x24 ./MOTOR.o
+                0x0000000000002150                Motor1_CCW
+ .text.SPI_Init
+                0x0000000000002174       0x62 ./SPI.o
+                0x0000000000002174                SPI_Init
+ .text.SPI_Transmit
+                0x00000000000021d6       0x3e ./SPI.o
+                0x00000000000021d6                SPI_Transmit
+ .text.SPI_Receive
+                0x0000000000002214       0x32 ./SPI.o
+                0x0000000000002214                SPI_Receive
+ .text.SPI_SlaveSelect
+                0x0000000000002246       0x36 ./SPI.o
+                0x0000000000002246                SPI_SlaveSelect
+ .text.TIMER0_WITHOUT_INTERRUPT_Initialization
+                0x000000000000227c       0x6a ./TIMER0.o
+                0x000000000000227c                TIMER0_WITHOUT_INTERRUPT_Initialization
+ .text.TIMER0_WITHOUT_INTERRUPT_Set_Delay
+                0x00000000000022e6      0x14a ./TIMER0.o
+                0x00000000000022e6                TIMER0_WITHOUT_INTERRUPT_Set_Delay
+ .text.TIMER0_WITH_INTERRUPT_Initialization
+                0x0000000000002430       0x7e ./TIMER0.o
+                0x0000000000002430                TIMER0_WITH_INTERRUPT_Initialization
+ .text.TIMER0_WITH_INTERRUPT_Set_Delay
+                0x00000000000024ae      0x116 ./TIMER0.o
+                0x00000000000024ae                TIMER0_WITH_INTERRUPT_Set_Delay
+ .text.TIMER0_FastPWM_Initialization
+                0x00000000000025c4       0xa0 ./TIMER0.o
+                0x00000000000025c4                TIMER0_FastPWM_Initialization
+ .text.TIMER0_FastPWM_Set_Duty
+                0x0000000000002664       0x38 ./TIMER0.o
+                0x0000000000002664                TIMER0_FastPWM_Set_Duty
+ .text.UART_Init
+                0x000000000000269c       0x50 ./UART.o
+                0x000000000000269c                UART_Init
+ .text.UART_Transmit
+                0x00000000000026ec       0x40 ./UART.o
+                0x00000000000026ec                UART_Transmit
+ .text.UART_Receive
+                0x000000000000272c       0x32 ./UART.o
+                0x000000000000272c                UART_Receive
+ .text.UART_RECEIVE
+                0x000000000000275e       0x46 ./UART.o
+                0x000000000000275e                UART_RECEIVE
+ .text.libgcc.mul
+                0x00000000000027a4        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.div
+                0x00000000000027a4       0x28 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_divmodhi4.o)
+                0x00000000000027a4                _div
+                0x00000000000027a4                __divmodhi4
+ .text.libgcc   0x00000000000027cc        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000000027cc        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000000027cc        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000000027cc        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000000027cc        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000000027cc        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x00000000000027cc       0x44 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x00000000000027cc                __udivmodsi4
+ .text.libgcc   0x0000000000002810        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000002810        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000002810        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000002810        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000002810        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000002810        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000002810        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000002810        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000002810        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000002810        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000002810        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000002810        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000002810        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x0000000000002810        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc   0x0000000000002810        0xc c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_tablejump2.o)
+                0x0000000000002810                __tablejump2__
+ .text.libgcc.prologue
+                0x000000000000281c        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x000000000000281c        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x000000000000281c        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x000000000000281c        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x000000000000281c        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x000000000000281c        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x000000000000281c        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x000000000000281c        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x000000000000281c        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x000000000000281c        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x000000000000281c        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x000000000000281c        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x000000000000281c        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x000000000000281c        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x000000000000281c        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x000000000000281c        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x000000000000281c        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x000000000000281c        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x000000000000281c       0x16 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_muluhisi3.o)
+                0x000000000000281c                __muluhisi3
+ .text.libgcc.div
+                0x0000000000002832        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x0000000000002832        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000002832        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000002832        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000002832        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000002832        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.mul
+                0x0000000000002832        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.div
+                0x0000000000002832       0x28 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x0000000000002832                __udivmodhi4
+ .text.libgcc   0x000000000000285a        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x000000000000285a        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x000000000000285a        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x000000000000285a        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x000000000000285a        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x000000000000285a       0x1e c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+                0x000000000000285a                __umulhisi3
+ .text.libgcc.div
+                0x0000000000002878        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x0000000000002878        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000002878        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000002878        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000002878        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000002878        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.avr-libc.fplib
+                0x0000000000002878        0xa c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x0000000000002878                __nesf2
+                0x0000000000002878                __eqsf2
+                0x0000000000002878                __cmpsf2
+                0x0000000000002878                __ltsf2
+                0x0000000000002878                __lesf2
+ .text.avr-libc.fplib
+                0x0000000000002882       0x5e c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x0000000000002882                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00000000000028e0       0x48 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x00000000000028e0                __fp_cmp
+ .text.avr-libc.fplib
+                0x0000000000002928       0x44 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x0000000000002928                __fp_split3
+                0x0000000000002938                __fp_splitA
+ .text.avr-libc.fplib
+                0x000000000000296c        0xe c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x000000000000296c                __fp_zero
+                0x000000000000296e                __fp_szero
+ .text.avr-libc.fplib
+                0x000000000000297a        0xa c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x000000000000297a                __gesf2
+                0x000000000000297a                __gtsf2
+ .text.avr-libc.fplib
+                0x0000000000002984        0x8 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x0000000000002984                __mulsf3
+ .text.avr-libc.fplib
+                0x000000000000298c       0xd2 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x00000000000029aa                __mulsf3x
+                0x00000000000029b0                __mulsf3_pse
+ .text.avr-libc.fplib
+                0x0000000000002a5e        0xc c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x0000000000002a5e                __fp_inf
+ .text.avr-libc.fplib
+                0x0000000000002a6a        0x6 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x0000000000002a6a                __fp_nan
+ .text.avr-libc.fplib
+                0x0000000000002a70        0xe c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x0000000000002a70                __fp_pscA
+ .text.avr-libc.fplib
+                0x0000000000002a7e        0xe c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x0000000000002a7e                __fp_pscB
+ .text.avr-libc.fplib
+                0x0000000000002a8c       0x22 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x0000000000002a8c                __fp_round
+ .text.avr-libc
+                0x0000000000002aae       0x16 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                0x0000000000002aae                ltoa
+                0x0000000000002aae                __ltoa
+ .text.avr-libc
+                0x0000000000002ac4       0x1e c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a(ltoa_ncheck.o)
+                0x0000000000002ac4                __ltoa_ncheck
+ .text.avr-libc
+                0x0000000000002ae2       0x44 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+                0x0000000000002ae2                __ultoa_ncheck
+                0x0000000000002ae4                __ultoa_common
+ .text.avr-libc
+                0x0000000000002b26       0x20 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a(strrev.o)
+                0x0000000000002b26                strrev
+                0x0000000000002b46                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000000000002b46        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+                0x0000000000002b46                _exit
+                0x0000000000002b46                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000002b46        0x4 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+ *(.hightext)
+ *(.hightext*)
+ *(.progmemx.*)
+                0x0000000000002b4a                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ .jumptables.gcc.ADC_Init
+                0x0000000000002b4a       0x10 ./ADC.o
+                0x0000000000002b5a                _etext = .
+
+.data           0x0000000000800060       0x10 load address 0x0000000000002b5a
+                0x0000000000800060                PROVIDE (__data_start = .)
+ *(.data)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .data          0x0000000000800060        0x0 ./ADC.o
+ .data          0x0000000000800060        0x0 ./App.o
+ .data          0x0000000000800060        0x0 ./DIO.o
+ .data          0x0000000000800060        0x0 ./EXT_INT.o
+ .data          0x0000000000800060        0x0 ./InOut.o
+ .data          0x0000000000800060        0x0 ./KEYPAD.o
+ .data          0x0000000000800060        0x0 ./LCD.o
+ .data          0x0000000000800060        0x0 ./LED.o
+ .data          0x0000000000800060        0x0 ./MOTOR.o
+ .data          0x0000000000800060        0x0 ./SPI.o
+ .data          0x0000000000800060        0x0 ./TIMER0.o
+ .data          0x0000000000800060        0x0 ./UART.o
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a(ltoa_ncheck.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+ .data          0x0000000000800060        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a(strrev.o)
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.KEYPAD
+                0x0000000000800060       0x10 ./KEYPAD.o
+                0x0000000000800060                KEYPAD
+ *(.gnu.linkonce.r*)
+                0x0000000000800070                . = ALIGN (0x2)
+                0x0000000000800070                _edata = .
+                0x0000000000800070                PROVIDE (__data_end = .)
+
+.bss            0x0000000000800070        0xc
+                0x0000000000800070                PROVIDE (__bss_start = .)
+ *(.bss)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .bss           0x0000000000800070        0x0 ./ADC.o
+ .bss           0x0000000000800070        0x0 ./App.o
+ .bss           0x0000000000800070        0x0 ./DIO.o
+ .bss           0x0000000000800070        0x0 ./EXT_INT.o
+ .bss           0x0000000000800070        0x0 ./InOut.o
+ .bss           0x0000000000800070        0x0 ./KEYPAD.o
+ .bss           0x0000000000800070        0x0 ./LCD.o
+ .bss           0x0000000000800070        0x0 ./LED.o
+ .bss           0x0000000000800070        0x0 ./MOTOR.o
+ .bss           0x0000000000800070        0x0 ./SPI.o
+ .bss           0x0000000000800070        0x0 ./TIMER0.o
+ .bss           0x0000000000800070        0x0 ./UART.o
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a(ltoa_ncheck.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+ .bss           0x0000000000800070        0x0 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a(strrev.o)
+ *(.bss*)
+ .bss.Num_OVF   0x0000000000800070        0x4 ./TIMER0.o
+                0x0000000000800070                Num_OVF
+ .bss.Num_CTC   0x0000000000800074        0x4 ./TIMER0.o
+                0x0000000000800074                Num_CTC
+ .bss.Initial_Value
+                0x0000000000800078        0x4 ./TIMER0.o
+                0x0000000000800078                Initial_Value
+ *(COMMON)
+                0x000000000080007c                PROVIDE (__bss_end = .)
+                0x0000000000002b5a                __data_load_start = LOADADDR (.data)
+                0x0000000000002b6a                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x000000000080007c        0x0
+                [!provide]                        PROVIDE (__noinit_start = .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end = .)
+                0x000000000080007c                _end = .
+                [!provide]                        PROVIDE (__heap_start = .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x0000000000000000     0x2e68
+ *(.stab)
+ .stab          0x0000000000000000      0x324 ./ADC.o
+ .stab          0x0000000000000324       0xe4 ./App.o
+                                         0xf0 (size before relaxing)
+ .stab          0x0000000000000408      0xd08 ./DIO.o
+                                        0xd14 (size before relaxing)
+ .stab          0x0000000000001110      0x114 ./EXT_INT.o
+                                        0x120 (size before relaxing)
+ .stab          0x0000000000001224       0xa8 ./InOut.o
+                                         0xb4 (size before relaxing)
+ .stab          0x00000000000012cc      0x3a8 ./KEYPAD.o
+                                        0x3b4 (size before relaxing)
+ .stab          0x0000000000001674      0xc78 ./LCD.o
+                                        0xc84 (size before relaxing)
+ .stab          0x00000000000022ec       0xf0 ./LED.o
+                                         0xfc (size before relaxing)
+ .stab          0x00000000000023dc      0x150 ./MOTOR.o
+                                        0x15c (size before relaxing)
+ .stab          0x000000000000252c      0x1e0 ./SPI.o
+                                        0x1ec (size before relaxing)
+ .stab          0x000000000000270c      0x4e0 ./TIMER0.o
+                                        0x4ec (size before relaxing)
+ .stab          0x0000000000002bec      0x27c ./UART.o
+                                        0x288 (size before relaxing)
+
+.stabstr        0x0000000000000000      0xbc8
+ *(.stabstr)
+ .stabstr       0x0000000000000000      0xbc8 ./ADC.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x12
+ *(.comment)
+ .comment       0x0000000000000000       0x12 ./ADC.o
+                                         0x13 (size before relaxing)
+ .comment       0x0000000000000012       0x13 ./App.o
+ .comment       0x0000000000000012       0x13 ./DIO.o
+ .comment       0x0000000000000012       0x13 ./EXT_INT.o
+ .comment       0x0000000000000012       0x13 ./InOut.o
+ .comment       0x0000000000000012       0x13 ./KEYPAD.o
+ .comment       0x0000000000000012       0x13 ./LCD.o
+ .comment       0x0000000000000012       0x13 ./LED.o
+ .comment       0x0000000000000012       0x13 ./MOTOR.o
+ .comment       0x0000000000000012       0x13 ./SPI.o
+ .comment       0x0000000000000012       0x13 ./TIMER0.o
+ .comment       0x0000000000000012       0x13 ./UART.o
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x120
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .debug_aranges
+                0x0000000000000020       0x20 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .debug_aranges
+                0x0000000000000040       0x20 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .debug_aranges
+                0x0000000000000060       0x20 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_tablejump2.o)
+ .debug_aranges
+                0x0000000000000080       0x20 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .debug_aranges
+                0x00000000000000a0       0x20 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .debug_aranges
+                0x00000000000000c0       0x20 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_muluhisi3.o)
+ .debug_aranges
+                0x00000000000000e0       0x20 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .debug_aranges
+                0x0000000000000100       0x20 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000      0x63c
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x4e6 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_info    0x00000000000004e6       0x26 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .debug_info    0x000000000000050c       0x26 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .debug_info    0x0000000000000532       0x26 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .debug_info    0x0000000000000558       0x26 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_tablejump2.o)
+ .debug_info    0x000000000000057e       0x26 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .debug_info    0x00000000000005a4       0x26 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .debug_info    0x00000000000005ca       0x26 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_muluhisi3.o)
+ .debug_info    0x00000000000005f0       0x26 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .debug_info    0x0000000000000616       0x26 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+
+.debug_abbrev   0x0000000000000000      0x557
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x4a3 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_abbrev  0x00000000000004a3       0x14 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .debug_abbrev  0x00000000000004b7       0x14 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .debug_abbrev  0x00000000000004cb       0x14 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .debug_abbrev  0x00000000000004df       0x14 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_tablejump2.o)
+ .debug_abbrev  0x00000000000004f3       0x14 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .debug_abbrev  0x0000000000000507       0x14 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .debug_abbrev  0x000000000000051b       0x14 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_muluhisi3.o)
+ .debug_abbrev  0x000000000000052f       0x14 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .debug_abbrev  0x0000000000000543       0x14 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+
+.debug_line     0x0000000000000000      0x608
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0x1d c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_line    0x000000000000001d       0xc7 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .debug_line    0x00000000000000e4      0x121 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .debug_line    0x0000000000000205       0x61 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .debug_line    0x0000000000000266       0x79 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_tablejump2.o)
+ .debug_line    0x00000000000002df       0x97 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .debug_line    0x0000000000000376       0x85 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .debug_line    0x00000000000003fb       0x91 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_muluhisi3.o)
+ .debug_line    0x000000000000048c       0xcd c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .debug_line    0x0000000000000559       0xaf c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000      0x1f8
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x199 c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_str     0x0000000000000199       0x5f c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .debug_str     0x00000000000001f8       0x5f c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .debug_str     0x00000000000001f8       0x5f c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .debug_str     0x00000000000001f8       0x5f c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_tablejump2.o)
+ .debug_str     0x00000000000001f8       0x5f c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .debug_str     0x00000000000001f8       0x5f c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .debug_str     0x00000000000001f8       0x5f c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_muluhisi3.o)
+ .debug_str     0x00000000000001f8       0x5f c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .debug_str     0x00000000000001f8       0x5f c:/embeded systems/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+OUTPUT(Mic1.elf elf32-avr)
+LOAD linker stubs
